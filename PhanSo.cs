@@ -44,5 +44,9 @@ namespace OOP_Buoi04
             return tmp;
         }
 
+        public void xuatPs()
+        {
+            Console.WriteLine($"Phân số: {tuSo} / {mauSo}");
+        }
     }
 }
